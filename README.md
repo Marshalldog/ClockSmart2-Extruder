@@ -12,7 +12,7 @@ List of materials
 -m2x10 self-tapping screw (recommend shorter but haven't tested)
 
 -ebb36 can board (optional but recommended) (https://biqu.equipment/en-au/products/bigtreetech-ebb-36-42-can-bus-for-connecting-klipper-expansion-device?variant=39760665149538)
-
+/n
 
 
 
