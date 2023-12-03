@@ -5,6 +5,10 @@ This version of the CS2 has the latest latch (as of 5-8-2023)
 
 Experimental
 
+List of materials
+-D2F-01L (or similar)
+-m2x10 self-tapping screw (recommend shorter but haven't tested)
+-ebb36 can board (optional but recommended) (https://biqu.equipment/en-au/products/bigtreetech-ebb-36-42-can-bus-for-connecting-klipper-expansion-device?variant=39760665149538)
 
 
 
